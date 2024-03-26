@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SoftwareSorcerer72
+- 👋 Hi, I’m @SoftwareSorcerer72 but you can call me Mike if you prefer.
 - 👀 I’m interested in software engineering and programming.
 - 🌱 I’m currently learning Python, SQL, HTML, CSS, Bootstrap, and Flask!
 - 💞️ I’m looking to collaborate on any projects; especially those related to Large Language Models and Game Development.
