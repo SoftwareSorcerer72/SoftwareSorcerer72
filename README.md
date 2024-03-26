@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @SoftwareSorcerer72
+- 👀 I’m interested in software engineering and programming.
+- 🌱 I’m currently learning Python, SQL, HTML, CSS, Bootstrap, and Flask!
+- 💞️ I’m looking to collaborate on any projects; especially those related to Large Language Models and Game Development.
+- 📫 How to reach me email is mikewelborn72@gmail.com
+
+
+<!---
+SoftwareSorcerer72/SoftwareSorcerer72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
